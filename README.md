@@ -10,3 +10,5 @@
   - Use params prop to access the ID
 - Nested dynamic routes?
   - dynamic segments in the folder names
+- Catch all segments?
+  - Use slug
