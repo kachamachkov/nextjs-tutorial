@@ -6,3 +6,7 @@
 - 404 in the box
 - No need to install a router with code
 - Nested routes? - just nest folders
+- Dynamic routes? [] dynamic segment
+  - Use params prop to access the ID
+- Nested dynamic routes?
+  - dynamic segments in the folder names
