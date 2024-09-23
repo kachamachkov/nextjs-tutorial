@@ -26,3 +26,6 @@
     - avoid naming conflicts with future next.js file conventions
 - Route groups 
   - Utilize () to exclude the folder name from the url
+- Layouts
+- Nested Layouts
+- Group layout
