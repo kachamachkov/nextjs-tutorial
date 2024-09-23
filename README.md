@@ -24,4 +24,5 @@
     - consistency while organizing internal files across a project
     - sort and group files in code editors
     - avoid naming conflicts with future next.js file conventions
-- Route groups
+- Route groups 
+  - Utilize () to exclude the folder name from the url
